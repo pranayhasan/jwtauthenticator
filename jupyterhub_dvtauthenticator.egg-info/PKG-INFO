@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: jupyterhub-dvtauthenticator
+Version: 0.1
+Summary: Data Vault Authenticator for JupyterHub
+Home-page: https://github.com/pranay/dvtauthenticator
+Author: mogthesprog
+Author-email: pranayhasan@gmail.com
+License: Apache 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
